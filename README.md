@@ -1,7 +1,7 @@
 ### Hi there I'm Lluc Gimenez 👋
 
 # 💫 About Me:
-💡  I like creating functional applications. Friendly UX/UI and Apps that work as they should are always the objective.<br>🎓  I finished my Certificate of Higher Education and went abroad to start my software developer journey.<br>🌱  I'm on track for learning more about Artificial Intelligence, as it is the future, and I sure want to be a part of it.<br>✍️  In my free time, I play guitar and exercise. I'm also a watch enthusiast<br>📫  You can send me a message via LinkedIn! I'll try to respond as soon as I can.
+💡  I like creating functional applications. Friendly UX/UI and Apps that work as they should are always the objective.<br>🎓  I finished my Certificate of Higher Education and went abroad to start my software developer journey.<br>🌱  I'm on track for learning more about Artificial Intelligence, as it is the future, and I sure want to be a part of it.<br>✍️  In my free time, I play guitar and exercise. I'm also a watch enthusiast<br>📫  You can send me a message via LinkedIn! I'll respond as soon as I can.
 
 
 ## 🌐 Socials:
